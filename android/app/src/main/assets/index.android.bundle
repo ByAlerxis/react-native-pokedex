@@ -645,6 +645,6 @@ __d((function(g,r,i,a,m,e,d){Object.defineProperty(e,"__esModule",{value:!0}),e.
 __d((function(g,r,i,a,m,e,d){m.exports=r(d[0]).registerAsset({__packager_asset:!0,httpServerLocation:"/assets/src/images",width:206,height:208,scales:[1],hash:"7f34efa7d65ef2a79bcd69e700036394",name:"Pokeball",type:"png"})}),563,[564]);
 __d((function(g,r,i,a,m,e,d){'use strict';m.exports=r(d[0])}),564,[159]);
 __d((function(g,r,i,a,m,e,d){Object.defineProperty(e,"__esModule",{value:!0}),e.store=void 0;var o=r(d[0])(r(d[1])),t=r(d[0])(r(d[2])),u=(0,r(d[3]).configureStore)({reducer:{counter:o.default,pokemon:t.default}});e.store=u}),565,[3,562,553,554]);
-__d((function(e,a,d,x,o,r,s){o.exports={name:"Pokedex By Alerxis",displayName:"Pokedex By Alerxis",extra:{eas:{projectId:"1a20226b-4b1a-4aa4-994b-fe971b0ad45e"}}}}),566,[]);
+__d((function(a,e,n,b,d,m,t){d.exports={name:"examen",displayName:"examen",extra:{eas:{projectId:"1a20226b-4b1a-4aa4-994b-fe971b0ad45e"}}}}),566,[]);
 __r(46);
 __r(0);
